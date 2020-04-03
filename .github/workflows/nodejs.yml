@@ -29,7 +29,6 @@ jobs:
     - run: npm test
       env:
         CI: true
-_____________________________________________  
 2020-04-02T19:03:37.3165389Z Evaluating strategy
 2020-04-02T19:03:37.3165485Z Creating job '__default'
 2020-04-02T19:03:37.3165732Z Evaluating timeout
