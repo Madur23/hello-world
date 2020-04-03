@@ -30,7 +30,9 @@ jobs:
       env:
         CI: true
 2020-04-02T19:03:37.3165389Z Evaluating strategy
-2020-04-02T19:03:37.3165485Z Creating job 'default'
+
+https://madur23.github.io/hello-world
+
 2020-04-02T19:03:37.3165732Z Evaluating timeout
 2020-04-02T19:03:37.3165740Z Evaluating cancel timeout
 2020-04-02T19:03:37.3165746Z Evaluating continue on error
