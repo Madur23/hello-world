@@ -29,3 +29,15 @@ jobs:
     - run: npm test
       env:
         CI: true
+_____________________________________________  r̼̯̤̗̲̞̥̈ͭ̃ͨ̆u̟͎̲͉̲ͮͫͭ̋ͭ͛ͣ̈n͉̠̙͉̗̺̋̔ͧ̊: n͉̠̙͉̗̺̋̔ͧ̊p̱̱̬̻̞̩͎̌ͦ̏ͪ͋̚m̘͈̺̪͓̺ͩ͂̾ͪ̀̋ b͎̣̫͈̥̗͒͌̃͑̔̾ͅu̟͎̲͉̲ͮͫͭ̋ͭ͛ͣ̈i̞̟̫̺ͭ̒ͭͣl͕͖͉̭̰ͬ̍ͤ͆̊ͨd̥̝̮͙͈͂̐̇ͮ̏̔̀̚ͅ
+
+
+2020-04-02T19:03:37.2925422Z ##[section]Starting: Prepare job label
+2020-04-02T19:03:37.3165389Z Evaluating strategy
+2020-04-02T19:03:37.3165485Z Creating job '__default'
+2020-04-02T19:03:37.3165732Z Evaluating timeout
+2020-04-02T19:03:37.3165740Z Evaluating cancel timeout
+2020-04-02T19:03:37.3165746Z Evaluating continue on error
+2020-04-02T19:03:37.3165754Z Evaluating target
+2020-04-02T19:03:37.3202076Z ##[section]Finishing: Prepare job label
+Fonts Keyboard for iPhone - http://bit.ly/fonts-keyboardFonts Keyboard for iPhone - http://bit.ly/fonts-keyboardFonts Keyboard for iPhone - http://bit.ly/fonts-keyboardFonts Keyboard for iPhone - http://bit.ly/fonts-keyboard
